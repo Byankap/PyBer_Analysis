@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Overview of the analysis
-Perform exploratory analysis to identify trends between different types of cities (urban, suburban, and urban), number of drivers and rides, and total fares based on drivers, rides, and types of cities; in order to improve access to services and determine affordability for unaccessed areas. 
+Perform an analysis to identify trends between different types of cities (urban, suburban, and urban), number of drivers and rides, and total fares based on drivers, rides, and types of cities; in order to improve access to services and determine affordability for unaccessed areas. 
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 Based on the multiple-line chart, "Total Fare by City Type," total fares ranged between $1600-$2500 per week in urban areas, compared to $200-$500 per week in rural areas. Total fares in the suburban areas ranged between $750-1450 per week. Total urban fares were 63%, suburban fares were 31%, and rural fares were 7%.
